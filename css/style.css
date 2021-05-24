@@ -9,3 +9,24 @@ background-size: 35%;
 .logo {
     height: 50px;
 }
+
+.highlight {
+    background-color: yellow;
+}
+
+.Extra1 {
+    background-image: url(../img/monitor.jpg);
+}
+
+.Extra2 {
+    background-image: url(../img/graph.jpg);
+}
+
+.Extra1, .Extra2 {
+    height: 100px;
+    width: 250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-weight: bold;
+}

@@ -10,8 +10,17 @@ background-size: 35%;
     height: 50px;
 }
 
+.caption {
+    margin-top: 0px;
+}
+
 .highlight {
     background-color: yellow;
+}
+
+ul {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 th {
@@ -22,10 +31,13 @@ th {
 
 table {
     width: 100%; 
+    margin-bottom: 20px;
+    border-spacing: 0px;
 }
 
 td {
     height: 50px;
+    
 }
 
 .short {
@@ -39,6 +51,11 @@ td {
 .blue_row {
     background-color: lightblue;
 }
+
+.last_paragraph {
+    margin-bottom: 20px;
+} 
+
 
 .Extra1 {
     background-image: url(../img/monitor.jpg);
@@ -55,6 +72,7 @@ td {
     background-size: contain;
     color: white;
     font-weight: bold;
+    margin-top: 10px;
 }
 
 .bold_grey_text {

@@ -1,0 +1,11 @@
+#banner_logo {
+background-image: url(../img/pattern.png);
+height: 120px;
+background-color: rgb(1, 120, 219);
+background-position: top;
+background-size: 35%;
+}
+
+.logo {
+    height: 50px;
+}

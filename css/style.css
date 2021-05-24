@@ -17,6 +17,23 @@ background-size: 35%;
 th {
     color: white;
     background-color:rgb(1, 120, 219);
+    text-align: left;
+}
+
+table {
+    width: 100%; 
+}
+
+td {
+    height: 50px;
+}
+
+.short {
+    width: 25%;
+}
+
+.long {
+    width: 50%;
 }
 
 .blue_row {
@@ -38,4 +55,18 @@ th {
     background-size: contain;
     color: white;
     font-weight: bold;
+}
+
+.bold_grey_text {
+    color: grey; 
+    font-weight: bold;
+}
+
+#blue_text {
+    color:royalblue;
+}
+
+#small_gray_text {
+    font-size: smaller; 
+    color: grey;
 }
